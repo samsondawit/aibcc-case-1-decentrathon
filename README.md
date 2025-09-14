@@ -2,7 +2,7 @@
 
 Этот репозиторий строит умную push-автоматизацию для банка: мы анализируем 3 месяца поведения, считаем ожидаемую выгоду клиента по каждому продукту, выбираем лучший продукт и генерируем персональные, соответствующие бренду push-тексты.
 
-# Финальный CSV: Итоговое решение можно найти в [submissions/pushes_final.csv](https://github.com/samsondawit/aibcc-decentrathon/blob/main/submissions/pushes_final.csv).
+# Финальный CSV: Итоговое решение можно найти в [submissions/pushes_final.csv](https://github.com/samsondawit/aibcc-case-1-decentrathon/blob/main/submissions/pushes_final.csv).
 
 ## Конвейер
 
