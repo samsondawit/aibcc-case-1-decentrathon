@@ -475,7 +475,7 @@ def main():
         tx_out = out_dir / "canonicalized" / f"client_{code}_transactions_3m_canon.csv"
         tx.to_csv(tx_out, index=False)
 
-        # Build H1 features
+        # Build features
         feats = features_for_client(code, clients, tx, tr)
         feature_rows.append(feats)
 

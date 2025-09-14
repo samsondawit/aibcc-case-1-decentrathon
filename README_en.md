@@ -2,6 +2,9 @@
 
 This repo builds a smart push-automation for a bank: we analyze 3 months of behavior, compute expected customer benefit per product, choose the best product, and generate personalized, on-brand push texts.
 
+# Final CSV: The submission solution can be found in [submissions/pushes_final.csv](https://github.com/samsondawit/aibcc-decentrathon/blob/main/submissions/pushes_final.csv).
+
+
 ## Pipeline
 
 - Canonicalize & Features
