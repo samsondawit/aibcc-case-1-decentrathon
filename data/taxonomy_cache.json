@@ -1,0 +1,97 @@
+{
+  "АЗС": {
+    "canonical_category": "АЗС",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Авто": {
+    "canonical_category": "Авто",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Едим дома": {
+    "canonical_category": "Едим дома",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Играем дома": {
+    "canonical_category": "Играем дома",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Кафе и рестораны": {
+    "canonical_category": "Кафе и рестораны",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Кино": {
+    "canonical_category": "Кино",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Косметика и Парфюмерия": {
+    "canonical_category": "Косметика и Парфюмерия",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Мебель": {
+    "canonical_category": "Мебель",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Одежда и обувь": {
+    "canonical_category": "Одежда и обувь",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Отели": {
+    "canonical_category": "Отели",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Подарки": {
+    "canonical_category": "Подарки",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Продукты питания": {
+    "canonical_category": "Продукты питания",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Путешествия": {
+    "canonical_category": "Путешествия",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Развлечения": {
+    "canonical_category": "Развлечения",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Ремонт дома": {
+    "canonical_category": "Ремонт дома",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Смотрим дома": {
+    "canonical_category": "Смотрим дома",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Спорт": {
+    "canonical_category": "Спорт",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Такси": {
+    "canonical_category": "Такси",
+    "confidence": 1.0,
+    "method": "exact"
+  },
+  "Ювелирные украшения": {
+    "canonical_category": "Ювелирные украшения",
+    "confidence": 1.0,
+    "method": "exact"
+  }
+}
